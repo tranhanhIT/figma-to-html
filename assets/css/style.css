@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box; /* Coi lại bài  */
+}
+
+htlm {
+  font-size: 62.5%;
+}
+
+/* Khôi phục lại cỡ chữ mặc định theo rem coi lại bài 56 */
+body {
+  font-size: 1.6rem;
+}
